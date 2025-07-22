@@ -1,8 +1,8 @@
 ---
-permalink: /about/
-title: "About"
-author_profile: true
 layout: single
+title: "About"
+permalink: /about/
+author_profile: true
 ---
 
 Hi!
