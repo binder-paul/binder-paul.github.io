@@ -11,7 +11,7 @@ Research
 summary {
   cursor: pointer;
   font-weight: normal;
-  transition: font-weight 10s ease;
+  transition: font-weight 2s ease;
 }
 summary:hover {
   font-weight: bold;
@@ -25,7 +25,7 @@ Oliver Pamp, Andreas Mehltretter, Paul Binder and Paul W. Thurner (2024): Introd
   <summary>Abstract</summary>
 
   <p>
-text
+text text
   </p>
 </details>
 
