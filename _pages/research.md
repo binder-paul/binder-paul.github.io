@@ -11,7 +11,7 @@ Research
 summary {
   cursor: pointer;
   font-weight: normal;
-  transition: font-weight 100s ease;
+  transition: font-weight 10s ease;
 }
 summary:hover {
   font-weight: bold;
