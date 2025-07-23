@@ -30,7 +30,7 @@ There is a scarcity of systematic data regarding the military equipment of rebel
 </details>
 
 
-Pamp, Oliver, Paul W. Thurner, Paul Binder, and Andreas Mehltretter (2024): Arming to fight: Rebel-government militarization and escalation of violence in civil wars, *Conflict Management and Peace Science* ([Paper](https://journals.sagepub.com/doi/10.1177/07388942241263028)[Replication Code](https://journals.sagepub.com/doi/10.1177/07388942241263028#supplementary-materials))
+Pamp, Oliver, Paul W. Thurner, Paul Binder, and Andreas Mehltretter (2024): Arming to fight: Rebel-government militarization and escalation of violence in civil wars, *Conflict Management and Peace Science* ([Paper](https://journals.sagepub.com/doi/10.1177/07388942241263028), [Replication Code](https://journals.sagepub.com/doi/10.1177/07388942241263028#supplementary-materials))
 
 <details>
   <summary>Abstract</summary>
