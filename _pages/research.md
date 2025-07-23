@@ -17,7 +17,7 @@ summary:hover {
 }
 </style>
 
-# Published Work 
+# Journal Articles 
 
 Oliver Pamp, Andreas Mehltretter, Paul Binder and Paul W. Thurner (2024): Introducing the Rebels' Armament Dataset (RAD): Empirical Evidence on Rebel Military Capabilities, *Journal of Conflict Resolution* ([Paper](https://journals.sagepub.com/doi/10.1177/00220027241297692), [Replication Code](https://journals.sagepub.com/doi/10.1177/00220027241297692#supplementary-materials)).
 
