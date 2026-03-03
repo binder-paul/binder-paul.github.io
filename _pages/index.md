@@ -16,4 +16,4 @@ A second strand of my research is centered around the armament levels of conflic
 
 My teaching focuses on quantitative methods in Political Science research, aiming to equip Undergrad students with the tools to apply adequate methods in their own projects.
 
-Before starting my current position, I completed an M.A. and a B.A. (with a minor in Economics) in Political Science at LMU Munich. During my doctoral studes, I was a Visiting Research at Washington University in St. Louis in spring 2025.
+Before starting my current position, I completed an M.A. and a B.A. (with a minor in Economics) in Political Science at LMU Munich. During my doctoral studes, I was a Visiting Research at Washington University in St. Louis in spring 2025. 
