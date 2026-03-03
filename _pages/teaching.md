@@ -15,9 +15,18 @@ summary {
   font-weight: normal;
   transition: font-weight 0.2s ease;
 }
+
 summary:hover {
   font-weight: bold;
+}
 
+details {
+  margin-top: 0.1em;
+}
+
+details p {
+  margin: 0.4em 0;
+}
 </style>
 >  <details>
 >    <summary>Content</summary>
