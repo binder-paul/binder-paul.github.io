@@ -7,7 +7,6 @@ author_profile: true
 
 
 
-
 ### Journal Articles 
 
 Betz, Timm, Paul Binder, and Jonas Geus (2026): Global Markets and Local Representation. *British Journal of Political Science*, forthcoming ([Paper](https://osf.io/preprints/socarxiv/4rc5p_v1)).
@@ -17,8 +16,18 @@ summary {
   font-weight: normal;
   transition: font-weight 0.2s ease;
 }
+
 summary:hover {
   font-weight: bold;
+}
+
+details {
+  margin-top: 0.1em;
+}
+
+details p {
+  margin: 0.4em 0;
+}
 </style>
 >  <details>
 >    <summary>Abstract</summary>
