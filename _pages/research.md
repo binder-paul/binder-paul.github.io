@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 
+
+
+### Journal Articles 
+
+Betz, Timm, Paul Binder, and Jonas Geus (2026): Global Markets and Local Representation. *British Journal of Political Science*, forthcoming ([Paper](https://osf.io/preprints/socarxiv/4rc5p_v1)).
+
 <style>
 summary {
   cursor: pointer;
@@ -16,17 +22,12 @@ summary:hover {
   font-weight: bold;
 
 </style>
-
-### Journal Articles 
-
-Betz, Timm, Paul Binder, and Jonas Geus (2026): Global Markets and Local Representation. *British Journal of Political Science*, forthcoming [Paper](https://osf.io/preprints/socarxiv/4rc5p_v1).
-
-<details>
-  <summary>Abstract</summary>
-<p>
-How do global market pressures affect domestic politics? A well-established literature documents that import competition fuels the rise of populist leaders and right-wing parties. We shift attention to a thus far unexplored consequence: pressures from global markets move voters toward candidates with local ties. These effects are most pronounced where import pressures raise the salience of pre-existing local identities, and where import pressures hit key industries in local economic clusters, creating spillovers throughout the community. We offer evidence from elections to the U.S. House of Representatives from 2002 to 2016, focusing on candidates' place of birth as expression of local ties. Our results provide a novel perspective on how economic globalization affects politics: local ties are a key dimension of descriptive representation, translating the place-based economic consequences of globalization into politics. Moreover, we highlight how indirect exposure to global markets through spillovers shapes the political response to globalization.
-  </p>
-</details>
+>  <details>
+>    <summary>Abstract</summary>
+>  <p>
+>  How do global market pressures affect domestic politics? A well-established literature documents that import competition fuels the rise of populist leaders and right-wing parties. We shift attention to a thus far unexplored consequence: pressures from global markets move voters toward candidates with local ties. These effects are most pronounced where import pressures raise the salience of pre-existing local identities, and where import pressures hit key industries in local economic clusters, creating spillovers throughout the community. We offer evidence from elections to the U.S. House of Representatives from 2002 to 2016, focusing on candidates' place of birth as expression of local ties. Our results provide a novel perspective on how economic globalization affects politics: local ties are a key dimension of descriptive representation, translating the place-based economic consequences of globalization into politics. Moreover, we highlight how indirect exposure to global markets through spillovers shapes the political response to globalization.
+>    </p>
+>  </details>
 
 Oliver Pamp, Andreas Mehltretter, Paul Binder, and Paul W. Thurner (2024): Introducing the Rebels' Armament Dataset (RAD): Empirical Evidence on Rebel Military Capabilities. *Journal of Conflict Resolution* 69(7-8), 1461-1489 ([Paper](https://journals.sagepub.com/doi/10.1177/00220027241297692), [Replication Code](https://journals.sagepub.com/doi/10.1177/00220027241297692#supplementary-materials)).
 
