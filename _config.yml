@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Paul Binder"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Candidate/Research Associate"
+  bio              : "Doctoral Candidate<br>Research Associate"
   location         : "Munich"
   employer         : "LMU Munich"
   uri              : # URL
