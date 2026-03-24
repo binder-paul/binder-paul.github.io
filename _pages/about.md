@@ -7,7 +7,7 @@ author_profile: true
 
 Hi!
 
-My name is Paul Binder. I am a second-year docotoral candidate in Political Science and a Research Associate in the project [PINPOINT](https://cordis.europa.eu/project/id/101041658) at the Geschwister Scholl Institute of Political Science at Ludwig-Maximilians-University Munich, where I work under the supervision of Professor [Timm Betz](https://timm-betz.de/about.html). 
+My name is Paul Binder. I am a second-year doctoral candidate in Political Science and a Research Associate in the project [PINPOINT](https://cordis.europa.eu/project/id/101041658) at the Geschwister Scholl Institute of Political Science at Ludwig-Maximilians-University Munich, where I work under the supervision of Professor [Timm Betz](https://timm-betz.de/about.html). 
 
 My research interests lie in the intersection of (international) political economy and conflict studies, applying a wide range of quantitative techniques. 
 In my dissertation, I examine the various political consequences of localized economic conditions and shocks.
