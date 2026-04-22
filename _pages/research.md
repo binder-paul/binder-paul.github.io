@@ -9,7 +9,7 @@ author_profile: true
 
 ### Journal Articles 
 
-Betz, Timm, Paul Binder, and Jonas Geus (2026): Global Markets and Local Representation. *British Journal of Political Science*, forthcoming ([Paper](https://osf.io/preprints/socarxiv/4rc5p_v1)).
+Betz, Timm, Paul Binder, and Jonas Geus (2026): Global Markets and Local Representation. *British Journal of Political Science* 56:e26 ([Paper](https://doi.org/10.1017/S0007123426101471)).
 <style>
 summary {
   cursor: pointer;
@@ -37,7 +37,7 @@ details p {
 >  </details>
 
 
-Oliver Pamp, Andreas Mehltretter, Paul Binder, and Paul W. Thurner (2024): Introducing the Rebels' Armament Dataset (RAD): Empirical Evidence on Rebel Military Capabilities. *Journal of Conflict Resolution* 69(7-8), 1461-1489 ([Paper](https://journals.sagepub.com/doi/10.1177/00220027241297692), [Replication Code](https://journals.sagepub.com/doi/10.1177/00220027241297692#supplementary-materials)).
+Oliver Pamp, Andreas Mehltretter, Paul Binder, and Paul W. Thurner (2024): Introducing the Rebels' Armament Dataset (RAD): Empirical Evidence on Rebel Military Capabilities. *Journal of Conflict Resolution* 69(7-8): 1461-1489 ([Paper](https://journals.sagepub.com/doi/10.1177/00220027241297692), [Replication Code](https://journals.sagepub.com/doi/10.1177/00220027241297692#supplementary-materials)).
 >  <details>
 >    <summary>Abstract</summary>
 >  <p>
