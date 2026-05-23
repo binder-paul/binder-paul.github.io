@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Paul Binder | Political Science | LMU"
+title                    : "Paul Binder"
 title_separator          : "-"
 name                     : "Paul Binder"
-description              : "personal description"
+description              : "Doctoral Candidate in Political Science at LMU Munich"
 url                      : "https://binder-paul.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "binder-paul/binder-paul.github.io"
