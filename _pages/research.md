@@ -53,6 +53,8 @@ Pamp, Oliver, Paul W. Thurner, Paul Binder, and Andreas Mehltretter (2024): Armi
 >  Do more weapons in the hands of rebel groups escalate civil wars? We address this question using a recently published dataset on the armaments of 270 non-state actors. We provide a comprehensive overview of their arsenals and utilize this information in a dyadic analysis that also considers the effects of governments’ weapons stock. We show that better-armed rebel groups are involved in higher-intensity conflicts only if they receive no external support. Moreover, conventional warfare is related to higher casualty numbers and the impact of arms provision to governments is conditional on the relative military strength of the opposing rebels.
 >    </p>
 >  </details>
+
+
 ---
 
 ### Manuscripts Under Review
