@@ -55,25 +55,24 @@ Pamp, Oliver, Paul W. Thurner, Paul Binder, and Andreas Mehltretter (2024): Armi
 >  </details>
 ---
 
+### Manuscripts Under Review
+
+Binder, Paul, Fabian Haggerty, Lukas Rudoplph, and Paul W. Thurner: Proximity to arms production facilities and citizens’ support for arms export policy: Evidence from the five largest weapon-producing	democracies.
+
+Binder, Paul, Oliver Pamp, and Paul W. Thurner (2025): Do Arms Prolong Conflict? An Empirical Analysis of the Non-linear Effects of Weapon Stocks on the Duration of Civil Wars.
+
+
 ### Working Papers
 
-Geus, Jonas and Paul Binder (2026): Globalization and U.S. Presidential Campaign Rhetoric (Last presented at SPSA 2026).
+Paul Binder: Explaining the Geography of Discontent: How Economic Shocks Affect the Spatial Dynamics of Protest.
 
+Geus, Jonas and Paul Binder (2026): The Politics of Economic Exposure to China: Evidence from Political Rhetoric in the United States
     
-Betz, Timm and Paul Binder (2026): Production Networks and Tariff Concessions in GATT Trade Negotiations (Last presented at SPSA 2026).
+Betz, Timm and Paul Binder (2026): Production Networks, Political Coalitions, and Tariff Concessions in GATT Trade Negotiations.
 		
-
-Binder, Paul, Fabian Haggerty, Lukas Rudoplph, and Paul W. Thurner (2026): Proximity to arms production facilities and citizens’ support for arms export policy: Evidence from the five largest weapon-producing	democracies (Under Review).
+Binder, Paul, Fabian Haggerty, and Cuichi N. Miess (2025): A Comment on ‘Political Responsiveness to Conflict Victims: Evidence from a Countrywide Audit Experiment in Colombia‘.
 		
-
-Binder, Paul, Fabian Haggerty, and Cuichi N. Miess (2025): A Comment on ‘Political Responsiveness to Conflict Victims: Evidence from a Countrywide Audit Experiment in Colombia‘ (Working Paper).
-		
-
-Binder, Paul, Oliver Pamp, and Paul W. Thurner (2025): Do Arms Prolong Conflict? An Empirical Analysis of the Non-linear Effects of Weapon Stocks on the Duration of Civil Wars (Under Review).
-		
-
-Miess, Cuichi N., Paul Binder, and Paul W. Thurner (2024): External Civil War Interference: Reassessing the Transnational Dimension of Intrastate Violence (Working Paper).
-		
+Miess, Cuichi N., Paul Binder, and Paul W. Thurner (2024): External Civil War Interference: Reassessing the Transnational Dimension of Intrastate Violence.
 
 Mehltretter, Andreas, Paul W. Thurner, Oliver Pamp and Paul Binder (2023): Rebels' Armament Dataset (RAD) Codebook ([Paper](https://www.gsi.uni-muenchen.de/lehreinheiten/le_policy_analysis/dokumente/codebook_rad.pdf)).
 
