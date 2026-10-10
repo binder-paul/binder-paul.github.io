@@ -22,7 +22,7 @@ summary:hover {
 }
 
 details {
-  margin-top: -0.5em;
+  margin-top: 0.1em;
 }
 
 details p {
